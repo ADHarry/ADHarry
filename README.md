@@ -1,3 +1,4 @@
+![logo](https://github.com/ADHarry/ADHarry/blob/main/GitHub.jpg)
 <h1 align="center">Hi 👋, I'm Ali Haider</h1>
 <h3 align="center">A Computer Science Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400"src="https://softflow.ca/wp-content/uploads/2023/03/thoughtworks-gif_dribbble.gif">
