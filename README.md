@@ -6,12 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharry&label=Profile%20views&color=0e75b6&style=flat-square" alt="adharry" /> </p>
 
 - 🌱 I’m currently learning **Web Development, Mobile application Development**
+<h3 align="left">Connect with me:</h3>
 
 - 👨‍💻 I'm available at [linkedin.com/in/ali-haider-ab3069251](linkedin.com/in/ali-haider-ab3069251)
 
 - 📫 How to reach me **ah4865201@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
