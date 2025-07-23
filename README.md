@@ -39,7 +39,7 @@
   <!-- NumPy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <!-- Matplotlib -->
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="100" height="60"/>
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="100" height="100"/>
   <!-- Seaborn -->
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="50"/>
   <!-- Scikit-learn -->
