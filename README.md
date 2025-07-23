@@ -33,15 +33,15 @@
 
 <p align="left">
   <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100%" height="40"/>
   <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="100%" height="40"/>
   <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="100%" height="40"/>
   <!-- Matplotlib -->
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="100%" height="40"/>
   <!-- Seaborn -->
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100%" height="40"/>
   <!-- Scikit-learn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   <!-- TensorFlow -->
@@ -64,27 +64,6 @@
 - 💻 **Development:** Web (HTML, CSS, JS), Flutter Mobile Apps, APIs  
 - 🌍 **Others:** Git, GitHub, Linux, Firebase, Figma  
 - 🧩 **Domains:** eHealth, FemTech, HeritageTech, Smart Safety Devices, CommerceTech
-
----
-
-📈 **GitHub Stats**
-
-<!-- GitHub Stats with Python Highlight -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adharry&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true&custom_title=Ali%20Haider's%20Pythonic%20Journey" alt="Ali's GitHub Stats" />
-</p>
-<!-- GitHub Streaks -->
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adharry&theme=tokyonight&ring=FF6B81&fire=FF6B81&currStreakNum=FAD02C" alt="Ali's GitHub Streak" />
-</p>
-<!-- Top Languages (Python Emphasis) -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adharry&layout=compact&theme=tokyonight&langs_count=6&hide=html,css&custom_title=Top%20Languages%20Used%20in%20Data%20Projects" alt="Top Languages" />
-</p>
-<!-- GitHub Trophies (Optional for More Flair) -->
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=adharry&theme=tokyonight&title=Commits,Repositories,Stars&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
 
 ---
 
