@@ -1,25 +1,88 @@
-![logo](https://github.com/ADHarry/ADHarry/blob/main/GitHub.jpg)
-<h1 align="center">Hi 👋, I'm Ali Haider</h1>
-<h3 align="center">A Computer Science Engineer from Pakistan</h3>
-<img align="right" alt="coding" width="400"src="https://softflow.ca/wp-content/uploads/2023/03/thoughtworks-gif_dribbble.gif">
+![Ali Haider Banner](https://github.com/ADHarry/ADHarry/blob/main/GitHub.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adharry&label=Profile%20views&color=0e75b6&style=flat-square" alt="adharry" /> </p>
+<h1 align="center">👋 Hi, I'm Ali Haider</h1>
+<h3 align="center">🚀 Data Scientist | AI/ML Engineer | Tech Entrepreneur | Pakistan 🇵🇰</h3>
 
-- 🌱 I’m currently learning **Web Development, Mobile application Development**
-<h3 align="left">Connect with me:</h3>
-
-- 👨‍💻 I'm available at [linkedin.com/in/ali-haider-ab3069251](linkedin.com/in/ali-haider-ab3069251)
-
-- 📫 How to reach me **ah4865201@gmail.com**
-
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=06C6D0&center=true&vCenter=true&width=500&lines=Turning+Data+into+Decisions;AI+Solutions+for+Real+Problems;Building+Tech+that+Empowers+Lives" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="right" alt="AI Work" width="420" src="https://softflow.ca/wp-content/uploads/2023/03/thoughtworks-gif_dribbble.gif"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adharry&show_icons=true&locale=en&layout=compact" alt="adharry" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adharry&show_icons=true&locale=en" alt="adharry" /></p>
+🔍 **About Me**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adharry&" alt="adharry" /></p>
+- 🎓 BS in Computer Science | Superior University, Lahore  
+- 💡 Passionate about Data Science, Deep Learning, and Innovative Problem Solving  
+- 💻 Building AI-powered applications to solve real-world issues  
+- 🌐 Currently working on projects in **Visual Commerce**, **Mental Health Monitoring**, and **Women's Safety Tech (RinGuard)**  
+- 📈 Exploring the world of entrepreneurship and product innovation  
+
+---
+
+📫 **Connect With Me**
+
+- 🌐 [LinkedIn](https://linkedin.com/in/ali-haider-ab3069251)
+- 📧 Email: **ah4865201@gmail.com**
+- 💬 Let's collaborate on: Data Science | AI/ML | Product Design | Startup Building
+
+---
+
+🧠 **Technologies & Tools**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+</p>
+
+---
+
+🚀 **Tech Stack & Interests**
+
+- 🔬 **AI/ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, OpenCV  
+- 📊 **Data Analytics:** Tableau, Matplotlib, Seaborn  
+- 💻 **Development:** Web (HTML, CSS, JS), Flutter Mobile Apps, APIs  
+- 🌍 **Others:** Git, GitHub, Linux, Firebase, Figma  
+- 🧩 **Domains:** eHealth, FemTech, HeritageTech, Smart Safety Devices, CommerceTech
+
+---
+
+📈 **GitHub Stats**
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adharry&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adharry&theme=tokyonight" alt="Ali's GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adharry&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+🎯 **Current Goals**
+
+- 📍 Launching my startup **RinGuard** — Smart Ring for Women’s Safety  
+- 🧠 Advancing my knowledge in Explainable AI (XAI) & LLMs  
+- 📊 Publishing a data-driven research on **Mental Health and Social Media**  
+- 🧑‍🏫 Helping beginners break into AI and Data Science
+
+---
+
+📌 **Quote I Live By**  
+> *"Don't just learn to code — learn to solve problems."* — Ali Haider
+
+---
+
+🌟 _Thank you for visiting my profile! Let's build the future together._  
