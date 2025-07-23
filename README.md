@@ -23,8 +23,8 @@
 
 📫 **Connect With Me**
 
-- 🌐 [LinkedIn](https://linkedin.com/in/ali-haider-ab3069251)
-- 📧 Email: **ah4865201@gmail.com**
+- 🌐 [LinkedIn](https://linkedin.com/in/alihaider008)
+- 📧 Email: **alihaider.developer8@gmail.com**
 - 💬 Let's collaborate on: Data Science | AI/ML | Product Design | Startup Building
 
 ---
@@ -32,16 +32,28 @@
 🧠 **Technologies & Tools**
 
 <p align="left">
+  <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <!-- Matplotlib -->
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
+  <!-- Seaborn -->
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40"/>
+  <!-- Scikit-learn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <!-- TensorFlow -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <!-- PyTorch -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <!-- Jupyter -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
+
 
 ---
 
@@ -57,16 +69,21 @@
 
 📈 **GitHub Stats**
 
+<!-- GitHub Stats with Python Highlight -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adharry&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adharry&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true&custom_title=Ali%20Haider's%20Pythonic%20Journey" alt="Ali's GitHub Stats" />
 </p>
-
+<!-- GitHub Streaks -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adharry&theme=tokyonight" alt="Ali's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adharry&theme=tokyonight&ring=FF6B81&fire=FF6B81&currStreakNum=FAD02C" alt="Ali's GitHub Streak" />
 </p>
-
+<!-- Top Languages (Python Emphasis) -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adharry&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adharry&layout=compact&theme=tokyonight&langs_count=6&hide=html,css&custom_title=Top%20Languages%20Used%20in%20Data%20Projects" alt="Top Languages" />
+</p>
+<!-- GitHub Trophies (Optional for More Flair) -->
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=adharry&theme=tokyonight&title=Commits,Repositories,Stars&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
